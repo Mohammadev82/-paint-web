@@ -1,4 +1,2 @@
-#paint app for web
-- [x] Complete!
+#paint app for web!
 
-- [ ] Not complete!
